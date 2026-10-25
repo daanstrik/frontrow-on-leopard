@@ -1,11 +1,20 @@
 # Front Row 1.0 / 1.3 on Mac OS X Leopard
 Mac OS X Tiger Front Row 1.0/1.3 running on Leopard (possibly Snow Leopard too).
 
-# How does this work?
-Apparently Tiger and leopard's libraries and Front Row kexts and dependencies arent very different. (Im not joking. Youll see why.)
+# Why does this work?
+Front Row 1.x was originally designed for Mac OS X Tiger, but Leopard retains many of the frameworks and dependencies used by the original release.
+Because of this, the Tiger version of Front Row can run on Leopard with little or no modification, restoring the classic rotating carousel interface that was removed in Front Row 2.x.
+This repository packages a ready-to-use version for convenience.
 
 # How do i get this on my iMac/MacBook/PowerMac?
 All you need is a system that can run Leopard. I suposse if your system supports it you could simply also install Tiger, but some people like leopard more. like me. 
+
+# Before you start
+
+    Make a backup of your existing Front Row.app.
+    Administrator privileges are required.
+    This project modifies system files.
+    Compatibility may vary between Leopard versions and hardware.
 
 # Lets get started.
 Lets get started, In the release tab, the .app is universal, it should be, atleast. If it isnt, please open a ticket. Just open /System/Library/Coreservices by either pressing 
