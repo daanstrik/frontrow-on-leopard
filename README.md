@@ -14,7 +14,9 @@ Lets get started, In the release tab, the .app is universal, it should be, atlea
 # Compatibility
        OS	                           Status
 Mac OS X 10.5 Leopard	        ✅ Tested
+
 Mac OS X 10.6 Snow Leopard	  ? Untested
+
 Mac OS X 10.4 Tiger	          N/A Already included
 
 # Youre done!
