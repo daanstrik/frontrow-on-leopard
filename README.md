@@ -20,6 +20,8 @@ All you need is a system that can run Leopard. I suposse if your system supports
 Lets get started, In the release tab, the .app is universal, it should be, atleast. If it isnt, please open a ticket. Just open /System/Library/Coreservices by either pressing 
 *Go to folder..* in the finder options, or just press *CMD + Shift + S/Windows + Shift + S*. You drag the frontrow.app already there to your desktop as backup, if it copies, delete the original. otherwise, continue. After that, you copy the .app downloaded from the releases tab, into CoreServices. It should either continue, or say: Would you like to replace the newer item: Frontrow.app (Just agree.). 
 
+***Please install iTunes 7.x or 6.x if you intend to use music.***
+
 # Compatibility
        OS	                           Status
 Mac OS X 10.5 Leopard	        ✅ Tested
