@@ -1,5 +1,4 @@
-
-# frontrow-1.0-on-leopard
+# Front Row 1.0 / 1.3 on Mac OS X Leopard
 Mac OS X Tiger Front Row 1.0/1.3 running on Leopard (possibly Snow Leopard too).
 
 # How does this work?
